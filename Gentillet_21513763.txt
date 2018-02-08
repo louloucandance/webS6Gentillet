@@ -1,0 +1,9 @@
+Louise Gentillet
+21513763
+Caroline Desprat
+https://louloucandance.github.io/webS6Gentillet/TP2.html
+
+J'ai essayé de faire le less et il me semble que je ne suis pas loin, 
+cependant, ca ne marche pas du tout, il doit y avoir un problème de lien
+entre le less et le html.
+Merci pour la correction.
